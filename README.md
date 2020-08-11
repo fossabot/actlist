@@ -15,6 +15,7 @@
 ![usage](https://actlist.silentsoft.org/api/shields/usage)
 [![HitCount](http://hits.dwyl.io/silentsoft/actlist.svg)](http://hits.dwyl.io/silentsoft/actlist)
 [![Gitter](https://badges.gitter.im/silentsoft/actlist.svg)](https://gitter.im/silentsoft/actlist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsilentsoft%2Factlist.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsilentsoft%2Factlist?ref=badge_shield)
 
   </div>
 </h2>
@@ -147,6 +148,9 @@ Mac OS X:
       ```
 
 For more information on ActlistPlugin development, see [here](http://actlist.silentsoft.org/docs/quick-start/)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsilentsoft%2Factlist.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsilentsoft%2Factlist?ref=badge_large)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
